@@ -22,7 +22,7 @@ on:
     
 env:
   TZ: Asia/Shanghai
-  Payload_Dumper_Go_Url: https://github.com/ssut/payload-dumper-go/releases/download/1.2.2/payload-dumper-go_1.2.2_linux_amd64.tar.gz
+  Payload_Dumper_Go_Url: https://ks3orig.bigota.d.miui.com/V14.0.28.0.TMNCNXM/miui_MONDRIAN_V14.0.28.0.TMNCNXM_36074967f4_13.0.zip
 
 jobs:
   make:
