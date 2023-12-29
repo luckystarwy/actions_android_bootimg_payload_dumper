@@ -11,7 +11,7 @@ on:
         ROM_URL:
           description: 'ROM directly link'
           required: true
-          default: "https://orig.bigota.d.miui.com/V14.0.28.0.TMNCNXM/miui_MONDRIAN_V14.0.28.0.TMNCNXM_36074967f4_13.0.zip"
+          default: "https://bigota.d.miui.com/V14.0.28.0.TMNCNXM/miui_MONDRIAN_V14.0.28.0.TMNCNXM_36074967f4_13.0.zip"
           type: string
         PARTITIONS:
           description: 'Partitions which you need to extract(Such as boot,vendor_dlkm,...,vendor_boot)'
